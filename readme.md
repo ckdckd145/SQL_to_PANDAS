@@ -1,11 +1,11 @@
 ### 누구를 위해 FOR WHOM
 
-SQL보다 Pandas가 더 익숙해서, SQL 데이터를 `pandas.DataFrame`으로 가져온 후 전처리를 하고 싶은 사람
+SQL보다 Pandas가 더 익숙해서, SQL 데이터를 `pandas.DataFrame`으로 가져온 후 전처리를 하고 싶은 사람   
 Someone who is more familiar with Pandas than SQL and wants to import SQL data into `pandas.DataFrame` and do some preprocessing.
 
 ### 목적 PURPOSE
 
-MySQL에서 Query문을 통해 조회된 데이터를 `pd.DataFrame`으로 쉽게 변환할 수 있는 Python 코드 제공
+MySQL에서 Query문을 통해 조회된 데이터를 `pd.DataFrame`으로 쉽게 변환할 수 있는 Python 코드 제공   
 Provide Python code to easily convert data viewed through a query statement in MySQL to `pd.DataFrame`.
 
 ### 사용 USE
@@ -16,7 +16,7 @@ pip install pymysql
 ```
 
 #### 디렉토리 DIRECTORY
-`pd.DataFrame`을 작업할 Jupyter notebook이든, python 파일이든 `SQL.py`와 같은 폴더에 있어야 함.
+`pd.DataFrame`을 작업할 Jupyter notebook이든, python 파일이든 `SQL.py`와 같은 폴더에 있어야 함.   
 The file to work with `pd.DataFrame` must be in the same folder as `SQL.py`.
 
 #### SQL.py
